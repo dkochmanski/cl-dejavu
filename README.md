@@ -6,7 +6,7 @@ load it put it in the path recognizeable by ASDF and issue:
 
     (asdf:load-system 'cl-dejavu)
 
-The project has three convenience functions:
+The project has two convenience functions:
 
 - `cl-dejavu:list-fonts`
 
