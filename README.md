@@ -1,3 +1,8 @@
+Migration
+---------
+
+This repository has migrated to https://codeberg.org/TurtleWare/cl-dejavu.
+
 DejaVu fonts repackage for Common Lisp
 --------------------------------------
 
